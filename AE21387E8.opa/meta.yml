@@ -1,0 +1,19 @@
+id: AE21387E8
+title: A Song of Prayer to Jamyang Loter Wangpo
+type: translation
+pechas:
+- I4F3F0E8C
+- I4B1B56C2
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:38:36.997090
+  last_modified_at: 2023-01-04 12:38:36.997094
+  collections:
+  - Jamyang Loter Wangpo Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I4F3F0E8C/DCE9: A6A2
+  I4B1B56C2/3277: A6A2
